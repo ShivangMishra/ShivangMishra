@@ -1,21 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shivang Mishra</h1>
-<h3 align="center">A full-stack developer</h3>
+<h3 align="center">A Full-stack Developer</h3>
 
-- I'm an engineering sophomore and part-time freelance developer. Currently working at [Cypher IT Solutions](https://www.cypheritsolutions.com)
+- I'm an engineering sophomore and part-time freelance developer. Currently working with [Cypher IT Solutions](https://www.cypheritsolutions.com).
 
-- 🥷 I specialize in **Spring, React & React Native, and Unity Engine**
+- 🥷 I specialize in **Spring, React & React Native, and Unity Engine**, also interested in **AI, DevOps and Electronics**.
 
-- 🧩 Also interested in **Artificial Intelligence, DevOps and Electronics**
+- 👯 I’m looking to collaborate on open source projectsI, and I occasionally take freelance opportunities.  
 
-- 👯 I’m looking to collaborate on open source projects
+- 🤝 Reach out to me on [Upwork](https://www.upwork.com/freelancers/~01716352a5c5efd2ad), or you can email me at **shivang978@gmail.com**.
 
-- 👨‍💻 Check out my  [portfolio website](https://shivangmishra.dev)
-
-- 📝 I occasionally take on freelance opportunities. Reach out to me on [Upwork](https://www.upwork.com/freelancers/~01716352a5c5efd2ad), or you can email me at **shivang978@gmail.com**
-
-- 📄 Here's my current [resume](https://drive.google.com/file/d/1prWM42Lqy2aQZym7K9EKkEuGaQP5qdz3/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
+- 👨‍💻 Check out my [portfolio website](https://shivangmishra.dev), or download my current [resume](https://drive.google.com/file/d/1prWM42Lqy2aQZym7K9EKkEuGaQP5qdz3/view?usp=sharing).
 <p align="left">
 </p>
 
