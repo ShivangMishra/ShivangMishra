@@ -5,11 +5,11 @@
 
 - 🥷 I specialize in **Spring, React & React Native, and Unity Engine**, also interested in **AI, DevOps and Electronics**.
 
-- 👯 I’m looking to collaborate on open source projectsI, and I occasionally take freelance opportunities.  
+- 👯 I’m looking to collaborate on open source projects, and I occasionally take freelance opportunities.  
 
 - 🤝 Reach out to me on [Upwork](https://www.upwork.com/freelancers/~01716352a5c5efd2ad), or you can email me at **shivang978@gmail.com**.
 
-- 👨‍💻 Check out my [portfolio website](https://shivangmishra.dev), or download my current [resume](https://drive.google.com/file/d/1prWM42Lqy2aQZym7K9EKkEuGaQP5qdz3/view?usp=sharing).
+- 👨‍💻 Check out my [portfolio website](https://shivangmishra.dev), or have a look at my current [resume](https://drive.google.com/file/d/1prWM42Lqy2aQZym7K9EKkEuGaQP5qdz3/view?usp=sharing).
 <p align="left">
 </p>
 
