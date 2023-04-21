@@ -9,6 +9,6 @@
 
 - 🤝 Reach out to me on [Upwork](https://www.upwork.com/freelancers/~01716352a5c5efd2ad), or you can email me at **shivang978@gmail.com**.
 
-- 👨‍💻 Check out my [portfolio website](https://shivangmishra.dev), or have a look at my current [resume](https://drive.google.com/file/d/1prWM42Lqy2aQZym7K9EKkEuGaQP5qdz3/view?usp=sharing).
+- 👨‍💻 Check out my [portfolio website](https://shivangmishra.dev), or have a look at my current [resume](https://drive.google.com/file/d/1nLsr17GHFYY41_J7eaByZP2lHIVdwAsj/view?usp=sharing).
 <p align="left">
 </p>
