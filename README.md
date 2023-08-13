@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivang Mishra</h1>
-<h3 align="center">A Full-stack Developer</h3>
+<h3 align="center">A Software Developer</h3>
 
 - I'm an engineering sophomore and part-time freelance developer. Currently working with [Onestack Technologies](https://www.onestacktechnologies.com).
 
