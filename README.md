@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivang Mishra</h1>
 <h3 align="center">A Software Developer</h3>
 
-- I'm an engineering sophomore and part-time freelance developer. Currently working with [Onestack Technologies](https://www.onestacktechnologies.com).
+- I'm a freelance developer and open source enthusiast. Currently working with [Onestack Technologies](https://www.onestacktechnologies.com).
 
 - 🥷 I specialize in **Spring, React & React Native, and Unity Engine**, also interested in **AI, DevOps and Electronics**.
 
